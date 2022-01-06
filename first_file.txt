@@ -4,3 +4,8 @@ print("Hello World")
 
 : - rahul nain
 
+add()
+{
+c=a+b
+return c
+}
